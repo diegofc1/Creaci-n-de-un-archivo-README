@@ -23,7 +23,7 @@ Sirve para **explicar de qué trata tu proyecto**, cómo instalarlo, usarlo y cu
 2. Escribe tu contenido usando **Markdown**.  
 3. Haz un commit con el archivo.  
 4. Sube tu proyecto a **GitHub**.  
-
+## NOTA: Ten en cuenta que al trabajar de forma remota en tu git, se crea un commit al crear el archivo readme y eso te puede generar un conflicto. Primero debes conectar tu git con tu gitHub y después creas el archivo readme.MD
 ---
 
 ## 🎨 Ejemplo de estilos en Markdown  
