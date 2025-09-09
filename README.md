@@ -1,4 +1,5 @@
 # 📘 Guía para crear un archivo README en GitHub  
+## 🚒 Se hizo un pequeño cambio para mostrar una rama recien creada
 
 Un **README.md** es el archivo principal de un repositorio en GitHub.  
 Sirve para **explicar de qué trata tu proyecto**, cómo instalarlo, usarlo y cualquier detalle importante.  
